@@ -1,0 +1,7 @@
+body{
+    background-size: 100%;
+    background-image:url(../images/skin-violate.jpg);
+    background-repeat:no-repeat;
+    overflow:auto;
+    overflow-x:hidden;
+}
